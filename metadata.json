@@ -1,0 +1,6 @@
+{
+  "name": "MEHEDI 3D — Md. Mehedi Hasan Portfolio & Digital World",
+  "description": "Official interactive 3D digital workspace and engineering portfolio of Md. Mehedi Hasan (Mehedi364), founder of Wafa Zone. Built with React, Three.js, and PHP/MySQL backend architecture.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
